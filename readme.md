@@ -15,6 +15,7 @@ To use FastRepo, run the script in the directory you want to upload:
 
 ```bash
 python fastrepo.py
+```
 
 ## Obtaining a GitHub Personal Access Token
 
