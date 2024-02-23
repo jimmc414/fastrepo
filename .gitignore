@@ -2,6 +2,7 @@
 # Outputs
 *_output.txt
 output.txt
+input.txt
 
 # Env
 .env
