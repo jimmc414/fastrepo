@@ -18,6 +18,7 @@ To use FastRepo, run the script in the directory you want to upload:
 ```bash
 python fastrepo.py
 ```
+<<<<<<< HEAD
 
 ## Preparations
 
@@ -25,6 +26,8 @@ Before running `fastrepo.py`, ensure:
 
 - A GitHub Personal Access Token (PAT) is obtained and set in your environment as `GITHUB_REPO_TOKEN`.
 - You have decided whether to include `.csv` and `.xlsx` files in your project. By default, these files are ignored to prevent accidental upload of potentially sensitive data.
+=======
+>>>>>>> fcbd93360c24619396b494ab7fdfb454cddd9cbf
 
 ## Obtaining a GitHub Personal Access Token
 
